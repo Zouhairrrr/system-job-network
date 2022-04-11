@@ -1,0 +1,19 @@
+{
+  "name": "system-job-network",
+  "version": "1.0.0",
+  "description": "In this project, we’ll create a web application that connects recruiters and potential candidates. In essence, it would be a social network that enables people to communicate with each other and thus find suitable opportunities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zouhairrrr/system-job-network.git"
+  },
+  "author": "zouhairrrr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zouhairrrr/system-job-network/issues"
+  },
+  "homepage": "https://github.com/Zouhairrrr/system-job-network#readme"
+}
